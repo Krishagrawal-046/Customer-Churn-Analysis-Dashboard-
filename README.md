@@ -12,7 +12,7 @@ This project features an Excel-based dashboard designed to analyze customer chur
 		->Churn by gender, age group, state, internet type, payment method, contract type, and tenure group.
         ->Top states with highest churn rates.
         ->Distribution of churn reasons (e.g., competitor offers, dissatisfaction, attitude issues).
-    Visualizations: Interactive charts and tables to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
+    Visualizations: Interactive charts to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
     Insights Section: Highlights actionable findings, like high-risk customer segments for targeted retention efforts.
 			
 **Dataset:**
@@ -22,8 +22,8 @@ This project features an Excel-based dashboard designed to analyze customer chur
 	    Service details (internet type, contract, payment method)
 	    Usage metrics (tenure, monthly charges, total revenue)
 	    Churn status and reasons
-        The raw data sheet contains over 6,000 customer records. Summary tables and pivots are derived from this data for the dashboard.  
-	**Note:** This project was inspired by online resources for learning Excel dashboard creation. The data is sample-based and not from a real company.
+        The raw data sheet contains over 6,000 customer records. 
+		Summary tables and pivots are derived from this data for the dashboard.  
 
 **How to Use:**
 
