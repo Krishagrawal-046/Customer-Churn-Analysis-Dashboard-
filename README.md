@@ -1,8 +1,8 @@
 **Customer Churn Analysis Dashboard**
 
 **Overview:**
-This project features an Excel-based dashboard designed to analyze customer churn in a telecommunications company. By processing raw customer data through Excel's built-in tools, the dashboard provides insights into churn trends, helping identify factors contributing to customer attrition and potential retention strategies. The analysis includes demographic breakdowns, churn rates by various categories, and visual representations to facilitate data-driven decision-making.
-                                                                The dashboard was developed as part of a personal project to demonstrate data cleaning, transformation, and visualization skills using Excel.
+This project features an Excel-based dashboard designed to analyze customer churn in a telecommunications company. By processing raw customer data through Excel's built-in tools, the dashboard provides insights into churn trends, helping identify factors contributing to customer attrition and potential retention strategies. The analysis includes demographic breakdowns, churn rates by various categories, and visual representations to facilitate data-driven decision-making. 
+The dashboard was developed as part of a personal project to demonstrate data cleaning, transformation, and visualization skills using Excel.
 	
 **Features:**
 
@@ -12,7 +12,7 @@ This project features an Excel-based dashboard designed to analyze customer chur
 		->Churn by gender, age group, state, internet type, payment method, contract type, and tenure group.
         ->Top states with highest churn rates.
         ->Distribution of churn reasons (e.g., competitor offers, dissatisfaction, attitude issues).
-    Visualizations: Interactive charts to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
+    Visualizations:Interactive charts to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
     Insights Section: Highlights actionable findings, like high-risk customer segments for targeted retention efforts.
 			
 **Dataset:**
