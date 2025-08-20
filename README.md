@@ -6,14 +6,14 @@ This project features an Excel-based dashboard designed to analyze customer chur
 	
 **Features:**
 
-        	Data Cleaning and ETL: Raw customer data is cleaned and transformed within Excel to ensure accuracy and usability.
-        	Key Metrics: Displays total customers, new joiners, total churned customers, and overall churn rate.
-            Breakdown Analysis:
-                ->Churn by gender, age group, state, internet type, payment method, contract type, and tenure group.
-                ->Top states with highest churn rates.
-                ->Distribution of churn reasons (e.g., competitor offers, dissatisfaction, attitude issues).
-            Visualizations: Interactive charts and tables to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
-            Insights Section: Highlights actionable findings, like high-risk customer segments for targeted retention efforts.
+    Data Cleaning and ETL: Raw customer data is cleaned and transformed within Excel to ensure accuracy and usability. 
+	Key Metrics: Displays total customers, new joiners, total churned customers, and overall churn rate.
+    Breakdown Analysis: 
+		->Churn by gender, age group, state, internet type, payment method, contract type, and tenure group.
+        ->Top states with highest churn rates.
+        ->Distribution of churn reasons (e.g., competitor offers, dissatisfaction, attitude issues).
+    Visualizations: Interactive charts and tables to spot patterns, such as higher churn among fiber optic users or month-to-month contracts.
+    Insights Section: Highlights actionable findings, like high-risk customer segments for targeted retention efforts.
 			
 **Dataset:**
 
