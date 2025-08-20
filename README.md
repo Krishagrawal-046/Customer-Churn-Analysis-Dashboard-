@@ -1,8 +1,7 @@
 **Customer Churn Analysis Dashboard**
 
 **Overview:**
-    
-	This project features an Excel-based dashboard designed to analyze customer churn in a telecommunications company. By processing raw customer data through Excel's built-in tools, the dashboard provides insights into churn trends, helping identify factors contributing to customer attrition and potential retention strategies. The analysis includes demographic breakdowns, churn rates by various categories, and visual representations to facilitate data-driven decision-making.
+This project features an Excel-based dashboard designed to analyze customer churn in a telecommunications company. By processing raw customer data through Excel's built-in tools, the dashboard provides insights into churn trends, helping identify factors contributing to customer attrition and potential retention strategies. The analysis includes demographic breakdowns, churn rates by various categories, and visual representations to facilitate data-driven decision-making.
     The dashboard was developed as part of a personal project to demonstrate data cleaning, transformation, and visualization skills using Excel.
 	
 **Features:**
